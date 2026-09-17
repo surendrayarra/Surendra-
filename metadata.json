@@ -1,0 +1,6 @@
+{
+  "name": "Surendra Butterfly Connector",
+  "description": "ESP32 Bluetooth and BLE dual joystick butterfly controller with light and motion controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

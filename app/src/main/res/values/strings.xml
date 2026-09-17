@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Surendra Butterfly Connector</string>
+    <string name="header_title">Surendra Bluetooth Connector</string>
+    <string name="connect_bluetooth">Connect Bluetooth</string>
+    <string name="light_on">LIGHT\nON</string>
+    <string name="light_off">LIGHT\nOFF</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
